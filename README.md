@@ -1,1 +1,1 @@
-# Apartman-site-y-netim-projesi
+# Apartman-site-yönetim-projesi
